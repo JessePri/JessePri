@@ -1,4 +1,4 @@
-# Hi person ^__^
+# Hi  ^__^
 ### Best way to contact me 📣: jesseprilutsky@gmail.com 
 ### Thing that I like ✨: C++, C#, cooking, custom keyboards
 ### Things that I want to learn 🎓: JS, Node, anything cool
